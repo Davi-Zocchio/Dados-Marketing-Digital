@@ -1,8 +1,4 @@
-## Criando um README.md Atraente para o Seu Projeto
-
-**Aqui está uma versão do README.md adaptada para o Markdown, com alguns toques extras para deixar seu projeto ainda mais interessante:**
-
-### **Motor de Busca Personalizado para Conteúdo de Marketing Digital**
+### **Motor de Busca Personalizado para Conteúdo de Marketing Digital - Imersão Dev com Google Gemini**
 
 **O que é isso?**
 
